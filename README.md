@@ -1,4 +1,10 @@
 # Elementary Calculator
+<p align="center">
+<img src="https://images.schoolspecialty.com/images/084432_ecommfullsize.jpg"
+   title="Learn SQL!"
+ width=300px
+height=200px
+>
 
 ## Description
 
